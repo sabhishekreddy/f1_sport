@@ -1,0 +1,14 @@
+.App {
+  width: auto;
+  height: auto;
+  padding: 1vw;
+  margin: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items:center;
+  background-color: red;
+}
+
+.App a{
+  text-decoration: none;
+}
